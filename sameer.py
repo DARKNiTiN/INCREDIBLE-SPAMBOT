@@ -927,31 +927,31 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
             
         
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@edk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@aan.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
-@put.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@aan.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@put.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
 
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n.leave <Channel or Chat ID>"
@@ -1529,7 +1529,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n\n𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.ping\n.restart\n\n𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.bio\n.join\n.pjoin\n.leave\n\n𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = "𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n\n𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.ping\n.restart\n\n𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.bio\n.join\n.pjoin\n.pleave\n\n𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
