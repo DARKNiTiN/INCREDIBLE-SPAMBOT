@@ -28,8 +28,8 @@
 
 -------------------------------------------------
 
-## CREAROR -[SHIVAM](https://t.me/SHIVAM9412)
-## CREAROR -[NITIN](https://t.me/D_EVIL_XD)
+## CREATOR -[SHIVAM](https://t.me/SHIVAM9412)
+## CREATOR -[NITIN](https://t.me/D_EVIL_XD)
 
 -------------------------------------------------
 
