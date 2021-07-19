@@ -5,7 +5,7 @@
 </p>
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/deadly-spam-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/deadly-spam-bot&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/kingopdevil/INCREDIBLE-SPAM-BOT?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/deadly-spam-bot&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/sameerpanthi/deadly-spam-bot/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/deadly-spam-bot/graphs/commit-activity)
