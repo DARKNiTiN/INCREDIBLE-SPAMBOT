@@ -35,7 +35,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingopdevil/INCREDIBLE-HOST)
+[![Deploy](https://www.herokucdn./deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingopdevil/INCREDIBLE-HOST)
 
 ------------------------------------------------
 
