@@ -18,7 +18,7 @@
 
 ## STATUS OF THIS SPAMBOT
 
-<p align="left"><a href="https://github.com/kingopdevil/INCREDIBLE-SPAM-BOT/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-spam-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-spam-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/deadly-spam-bot?style=plastic"></
+<p align="left"><a href="https://github.com/kingopdevil/INCREDIBLE-SPAM-BOT/network/members"><img src="https://img.shields.io/github/forks/kingopdevil/INCREDIBLE-SPAM-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/kingopdevil/INCREDIBLE-SPAM-BOT/stargazers"><img src="https://img.shields.io/github/stars/kingopdevil/INCREDIBLE-SPAM-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github/kingopdevil/INCREDIBLE-SPAM-BOT"></a><p align="left"><a href="https://github.com/kingopdevil/INCREDIBLE-SPAM-BOT?"><img src="https://img.shields.io/github/last-commit/kingopdevil/INCREDIBLE-SPAM-BOT?style=plastic"></
 
 -------------------------------------------------
 
