@@ -1,7 +1,7 @@
 {
-  "name": "SUPER SPAM BOT",
+  "name": "FASTES SPAM BOT",
   "description": "A POWERFULL AND FAST SPAM BOT.",
-  "logo": "https://telegra.ph/file/e0626b3a0bae9adcea7d6.jpg",
+  "logo": "https://telegra.ph/file/35c286ac32e218bd2f535.jpg",
     "env": {
       "STRING": {
         "description": "Telethon String Session",
