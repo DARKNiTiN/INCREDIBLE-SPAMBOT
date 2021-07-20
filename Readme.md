@@ -5,8 +5,8 @@
 </p>
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/kingopdevil/INCREDIBLE-SPAMBOT?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/deadly-spam-bot&utm_campaign=Badge_Grade_Settings)
-[![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/kingopdevil/INCREDIBLE-SPAMBOT/)   
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/kingopdevil/INCREDIBLE-SPAMBOT?utm_source=github.com&utm_medium=referral&utm_content=Kingopdevil/INCREDIBLE-SPAMBIT&utm_campaign=Badge_Grade_Settings)
+[![Size](https://img.shields.io/github/repo-size/Kingopdevil/INCREDIBLE-SPAMBOT?style=flat-square&color=green)](https://github.com/kingopdevil/INCREDIBLE-SPAMBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kingopdevil/INCREDIBLE-SPAMBOT/graphs/commit-activity)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kingopdevil/INCREDIBLE-SPAMBOT)   
@@ -42,7 +42,7 @@
 
 TAKE STRING SESSION FROM HERE - 
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@kingopdevil/INCREDIBLE-STRING-SESSION#main.py)
+[![REPL](https://replit.com/@kingopdevil/INCREDIBLE-STRING-SESSION#main.py)
     
 -------------------------------------------------
 
