@@ -42,7 +42,7 @@
 
 TAKE STRING SESSION FROM HERE - 
 
-[![REPL](https://replit.com/@kingopdevil/INCREDIBLE-STRING-SESSION#main.py)
+[![REPL](https://repl.it/badge/github/kingopdevil/INCREDIBLE-STRING-SESSION)](https://replit.com/@kingopdevil/INCREDIBLE-STRING-SESSION#main.py)
     
 -------------------------------------------------
 
