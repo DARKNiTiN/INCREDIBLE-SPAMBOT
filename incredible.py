@@ -520,7 +520,8 @@ async def start_yukki():
             await aam.start()
             botme = await aan.get_me()
             await ydk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_SPAM_BOT"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHATS"))            botid = telethon.utils.get_peer_id(botme)
+            await ydk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHATS"))            
+            botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
