@@ -42,7 +42,7 @@
 
 TAKE STRING SESSION FROM HERE - 
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@kingopdevil/INCREDIBLE-STRING-SESSION#main.py)
     
 -------------------------------------------------
 
