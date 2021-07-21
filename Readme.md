@@ -29,8 +29,8 @@
 
 -------------------------------------------------
 
-## CREATOR1 -[SHIVAM](https://t.me/SHIVAM9412)
-## CREATOR2 -[NITIN](https://t.me/D_EVIL_XD)
+## ¢яєαтσя1 -[SHIVAM](https://t.me/SHIVAM9412)
+## ¢яєαтσя2 -[NITIN](https://t.me/D_EVIL_XD)
 
 -------------------------------------------------
 
