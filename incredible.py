@@ -77,7 +77,7 @@ SMEX_USERS = []
 for x in SUDO: 
     SMEX_USERS.append(x)
     
-async def start_yukki():
+async def start_furious():
     global idk
     global ydk
     global wdk
@@ -329,8 +329,8 @@ async def start_yukki():
             print("Booting Up The Client 9")
             await ddk.start()
             await ddk(functions.channels.JoinChannelRequest(channel="@CYBER_HUNTERS_OFFICIAL"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@@INCREDIBLE_SPAM"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@@INCREDIBLE_SPAM_BOT"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_SPAM"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_SPAM_BOT"))
             await ddk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -412,10 +412,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 12")
             await kkk.start()
-            await kkk(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botme = await kkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -440,10 +440,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 13")
             await lkk.start()
-            await lkk(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -468,10 +468,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 14")
             await mkk.start()
-            await mkk(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botme = await mkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -496,10 +496,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 15")
             await sid.start()
-            await sid(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await sid(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await sid(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await sid(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await sid(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await sid(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await sid(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await sid(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -525,10 +525,10 @@ async def start_yukki():
             print("Booting Up The Client 16")
             await shy.start()
             botme = await shy.get_me()
-            await shy(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await shy(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await shy(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await shy(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await shy(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await shy(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await shy(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await shy(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -551,10 +551,10 @@ async def start_yukki():
             print("Booting Up The Client 17")
             await aam.start()
             botme = await aan.get_me()
-            await aan(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await aan(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await aan(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await aan(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await aan(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await aan(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await aan(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await aan(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -577,10 +577,10 @@ async def start_yukki():
             print("Booting Up The Client 18")
             await ake.start()
             botme = await ake.get_me()
-            await ake(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await ake(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await ake(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await ake(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await ake(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await ake(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await ake(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await ake(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -603,10 +603,10 @@ async def start_yukki():
             print("Booting Up The Client 19")
             await eel.start()
             botme = await eel.get_me()
-            await eel(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await eel(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await eel(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await eel(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await eel(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await eel(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await eel(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await eel(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -629,10 +629,10 @@ async def start_yukki():
             print("Booting Up The Client 20")
             await khu.start()
             botme = await khu.get_me()
-            await khu(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await khu(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await khu(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await khu(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await khu(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await khu(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await khu(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await khu(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -655,10 +655,10 @@ async def start_yukki():
             print("Booting Up The Client 21")
             await shi.start()
             botme = await shi.get_me()
-            await shi(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await shi(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await shi(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await shi(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await shi(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await shi(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await shi(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await shi(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -681,10 +681,10 @@ async def start_yukki():
             print("Booting Up The Client 22")
             await yaa.start()
             botme = await yaa.get_me()
-            await yaa(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -707,10 +707,10 @@ async def start_yukki():
             print("Booting Up The Client 23")
             await dav.start()
             botme = await dav.get_me()
-            await dav(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await dav(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await dav(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await dav(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await dav(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await dav(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await dav(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await dav(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -733,10 +733,10 @@ async def start_yukki():
             print("Booting Up The Client 24")
             await raj.start()
             botme = await raj.get_me()
-            await raj(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await raj(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await raj(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await raj(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await raj(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await raj(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await raj(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await raj(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -759,10 +759,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await put.start()
             botme = await put.get_me()
-            await put(functions.channels.JoinChannelRequest(channel="@DEADLY_USERBOT"))
-            await put(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAMMER"))
-            await put(functions.channels.JoinChannelRequest(channel="@DEADLY_SPAM_BOT"))
-            await put(functions.channels.JoinChannelRequest(channel="@DEADLY_FIGHTERS"))
+            await put(functions.channels.JoinChannelRequest(channel="@incredible_spam_bot"))
+            await put(functions.channels.JoinChannelRequest(channel="@INCREDIBLE_CHAT"))
+            await put(functions.channels.JoinChannelRequest(channel="@FURIOUS_X_Y"))
+            await put(functions.channels.JoinChannelRequest(channel="@DARK_FIGHTERS_CLAN"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -779,7 +779,7 @@ async def start_yukki():
    
    
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_yukki())       
+loop.run_until_complete(start_furious())       
 
 async def gifspam(e, smex):
     try:
@@ -827,9 +827,9 @@ async def gifspam(e, smex):
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗕𝗶𝗼\n\nCommand:\n\n.bio <Message to set Bio of Userbot accounts>"
     if e.sender_id in SMEX_USERS:
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
-            bio = str(yukki[0])
+            bio = str(furious[0])
             text = "Changing Bio"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
@@ -869,9 +869,9 @@ async def _(e):
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗝𝗼𝗶𝗻\n\nCommand:\n\n.join <Public Channel or Group Link/Username>"
     if e.sender_id in SMEX_USERS:
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
-            bc = yukki[0]
+            bc = furious[0]
             text = "Joining..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
@@ -913,9 +913,9 @@ async def _(e):
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗝𝗼𝗶𝗻\n\nCommand:\n\n.pjoin <Private Channel or Group's access hash>\n\nExample :\nLink = https://t.me/joinchat/HGYs1wvsPUplMmM1\n\n.pjoin HGYs1wvsPUplMmM1"
     if e.sender_id in SMEX_USERS:
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
-            bc = yukki[0]
+            bc = furious[0]
             text = "Joining...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
@@ -956,9 +956,9 @@ async def _(e):
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗟𝗲𝗮𝘃𝗲\n\nCommand:\n\n.leave <Channel or Chat ID>"
     if e.sender_id in SMEX_USERS:
-        yukki = ("".leave(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".leave(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) == 7:
-            bc = yukki[0]
+            bc = furious[0]
             bc = int(bc)
             text = "RDX BOT Leaving....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
@@ -1004,16 +1004,16 @@ async def spam(e):
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
-        if len(yukki) == 2:
-            message = str(yukki[1])
-            counter = int(yukki[0])
+        if len(furious) == 2:
+            message = str(furious[1])
+            counter = int(furious[0])
             if counter > 100:
                 return await e.reply(error, parse_mode=None, link_preview=None )
             await asyncio.wait([e.respond(message) for i in range(counter)])
         elif e.reply_to_msg_id and smex.media:  
-            counter = int(yukki[0])
+            counter = int(furious[0])
             if counter > 100:
                 return await e.reply(error, parse_mode=None, link_preview=None )
             for _ in range(counter):
@@ -1021,7 +1021,7 @@ async def spam(e):
                 await gifspam(e, smex)  
         elif e.reply_to_msg_id and smex.text:
             message = smex.text
-            counter = int(yukki[0])
+            counter = int(furious[0])
             if counter > 100:
                 return await e.reply(error, parse_mode=None, link_preview=None )
             await asyncio.wait([e.respond(message) for i in range(counter)])
@@ -1061,12 +1061,12 @@ async def spam(e):
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
         smex = await e.get_reply_message()
-        yukki = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
-        yukkisexy = yukki[1:]
-        if len(yukkisexy) == 2:
-            message = str(yukkisexy[1])
-            counter = int(yukkisexy[0])
-            sleeptime = float(yukki[0])
+        furious = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
+        furioussexy = furious[1:]
+        if len(furioussexy) == 2:
+            message = str(furioussexy[1])
+            counter = int(furioussexy[0])
+            sleeptime = float(furious[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     if e.reply_to_msg_id:
@@ -1075,8 +1075,8 @@ async def spam(e):
                         await e.client.send_message(e.chat_id, message)
                     await asyncio.sleep(sleeptime)
         elif e.reply_to_msg_id and smex.media:  
-            counter = int(yukkisexy[0])
-            sleeptime = float(yukki[0])
+            counter = int(furioussexy[0])
+            sleeptime = float(furious[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "document"):
                     smex = await e.client.send_file(e.chat_id, smex, caption=smex.text)
@@ -1084,8 +1084,8 @@ async def spam(e):
                 await asyncio.sleep(sleeptime)
         elif e.reply_to_msg_id and smex.text:
             message = smex.text
-            counter = int(yukkisexy[0])
-            sleeptime = float(yukki[0])
+            counter = int(furioussexy[0])
+            sleeptime = float(furious[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, message)
@@ -1125,11 +1125,11 @@ async def spam(e):
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
-        if len(yukki) == 2:
-            message = str(yukki[1])
-            counter = int(yukki[0])
+        if len(furious) == 2:
+            message = str(furious[1])
+            counter = int(furious[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     if e.reply_to_msg_id:
@@ -1138,7 +1138,7 @@ async def spam(e):
                         await e.client.send_message(e.chat_id, message)
                     await asyncio.sleep(0.1)
         elif e.reply_to_msg_id and smex.media:  
-            counter = int(yukki[0])
+            counter = int(furious[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "document"):
                     smex = await e.client.send_file(e.chat_id, smex, caption=smex.text)
@@ -1146,7 +1146,7 @@ async def spam(e):
                 await asyncio.sleep(0.1)  
         elif e.reply_to_msg_id and smex.text:
             message = smex.text
-            counter = int(yukki[0])
+            counter = int(furious[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, message)
@@ -1186,16 +1186,16 @@ async def spam(e):
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
-        if len(yukki) == 2:
-            message = str(yukki[1])
+        if len(furious) == 2:
+            message = str(furious[1])
             print(message)
             a = await e.client.get_entity(message)
             g = a.id
             c = a.first_name
             username = f"[{c}](tg://user?id={g})"
-            counter = int(yukki[0])
+            counter = int(furious[0])
             for _ in range(counter):
                 reply = random.choice(RAID)
                 caption = f"{username} {reply}"
@@ -1207,7 +1207,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             c = b.first_name
-            counter = int(yukki[0])
+            counter = int(furious[0])
             username = f"[{c}](tg://user?id={g})"
             for _ in range(counter):
                 reply = random.choice(RAID)
@@ -1297,10 +1297,10 @@ async def _(e):
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
         if len(e.text) > 11:
-            message = str(yukki[0])
+            message = str(furious[0])
             a = await e.client.get_entity(message)
             g = a.id
             que[g] = []
@@ -1355,10 +1355,10 @@ async def _(e):
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        furious = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
         if len(e.text) > 12:
-            message = str(yukki[0])
+            message = str(furious[0])
             a = await e.client.get_entity(message)
             g = a.id
             try:
