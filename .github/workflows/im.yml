@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "@DEADLY_FIGHTERS"
+          find: "@DEADLY_SPAM_BOT"
 
-          replace: "@Its_LegendBot"
+          replace: "@Legend_UserbotSpam"
 
       - name: Create Pull Request
 
